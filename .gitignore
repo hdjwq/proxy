@@ -1,0 +1,10 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#webstorm
+.idea
+#build
+bin
+pkg
